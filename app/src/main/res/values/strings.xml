@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login Form</string>
+    <string name="title">"Login "</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sumbit">Sumbit</string>
 </resources>
